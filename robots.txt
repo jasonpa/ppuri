@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://jasonpa.github.io/ppuri.co/sitemap.xml
+Sitemap: https://jasonpa.github.io/ppuri/sitemap.xml
